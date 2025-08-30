@@ -1,0 +1,1 @@
+modelscope社区下载模型文件：config.json、pytorch_model.bin、tokenizer_config.json、tokenizer.json、special_tokens_map.json，下载后保存到本地调用就行

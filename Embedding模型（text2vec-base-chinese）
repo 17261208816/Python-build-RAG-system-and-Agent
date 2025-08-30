@@ -1,2 +1,2 @@
 打开huggingface.cn/shibing624/text2vec-base-chinese网址下载Embedding模型的五个模型文件：config.json、pytorch_model.bin、tokenizer_config.json
-、vocab.txt、sentence_bert_config.json
+、vocab.txt、sentence_bert_config.json，并保存到本地
